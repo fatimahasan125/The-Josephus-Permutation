@@ -12,3 +12,8 @@ An example of the animation is shown below
 
 https://user-images.githubusercontent.com/68266703/120939949-028db400-c734-11eb-93a8-550bbc4a4ed3.mp4
 
+## How to run 
+
+Clone the repository onto your local machine. \
+Open the TheJosephusPermutation.sln file in your Visual Studio. \
+Build and run the Source.cpp file
